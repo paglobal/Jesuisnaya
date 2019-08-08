@@ -14,6 +14,5 @@ function showSlides() {
 
 window.onload = function() {
   showSlides();
-  document.getElementById("my_audio").play();
 }
 
