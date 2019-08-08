@@ -13,6 +13,3 @@ function showSlides() {
   setTimeout(showSlides, 6000); // Change image every 6 seconds
 }
 
-window.onload = function() {
-  document.getElementById("my_audio").play();
-}
